@@ -1,0 +1,18 @@
+{
+  "name": "triangle_testing",
+  "version": "1.0.0",
+  "description": "learning jest",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true
+  }
+}
